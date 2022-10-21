@@ -1,5 +1,4 @@
-# Modeling and Control of Manipulators - LAB 2
-
+# Second Assignment for the course "Modeling and Control of Manipulators" - UniGe
 ### Developed by  [@LoreBene99](https://github.com/LoreBene99), [@andreamanera](https://github.com/andreamanera)
 Assignment given by the professor Giuseppe Casalino for the course "Modeling and Control of Manipulator" - Robotics Engineering, at the University of Genova.
 
